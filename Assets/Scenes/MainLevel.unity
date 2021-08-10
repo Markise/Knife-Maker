@@ -765,6 +765,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RaysToShoot: 8
   maxDistance: 50
+  moveSpeed: 3
 --- !u!4 &1397732622 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2283315694330724272, guid: 299eb92bcc1f678408d938bfc378a677,
